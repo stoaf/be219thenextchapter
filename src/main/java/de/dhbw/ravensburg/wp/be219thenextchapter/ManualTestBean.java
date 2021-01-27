@@ -1,4 +1,4 @@
-package de.dhbw.ravensburg.wp.be219thenextchapter.service;
+package de.dhbw.ravensburg.wp.be219thenextchapter;
 
 import org.springframework.stereotype.Component;
 
